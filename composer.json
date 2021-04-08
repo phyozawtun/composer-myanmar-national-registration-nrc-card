@@ -9,6 +9,6 @@
             "email": "phyozawtun91@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "^1.4",
     "require": {}
 }

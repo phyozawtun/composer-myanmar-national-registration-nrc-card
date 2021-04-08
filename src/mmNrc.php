@@ -27,7 +27,7 @@ class mmNRC
     // Get state_id and disticts
     public static function getNRC($state_id=null, $associative = false){
 
-          $json = file_get_contents("nrc.json");
+          $json = file_get_contents(__DIR__."/nrc.json");
           $json = json_decode($json, false);
 
           // Return all
