@@ -1,7 +1,7 @@
 <?php
-namespace mmNrc\mmNrc;
+namespace mmNrc;
 
-class mmNRC
+class mmNrc
 {
     /*
     *
