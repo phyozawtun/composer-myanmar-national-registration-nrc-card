@@ -1,0 +1,14 @@
+{
+    "name": "phyozawtun/composer-myanmar-national-registration-nrc-card",
+    "description": "PHP Composer Package - Myanmar National Registration Card. in from NRC card. General purpose library for Myanmar NRC Card. Get list of townships code used in NRC number format, validation NRC number inputs and intigrated in forms.",
+    "type": "library",
+    "license": "GNU General Public License - GPLv3",
+    "authors": [
+        {
+            "name": "Phyo Zaw Tun",
+            "email": "phyozawtun91@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
